@@ -1,0 +1,17 @@
+matplotlib
+seaborn
+scipy
+obspy
+pandas==0.24.2
+geopandas
+scikit-learn
+verde
+basemap
+folium
+cartopy
+jupyter
+ipykernel
+pyfive
+pillow
+pint
+pip

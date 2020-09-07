@@ -1,0 +1,4 @@
+plotly-express
+bruges
+welly
+python-ternary
